@@ -40,12 +40,14 @@
     <Analyzer Include="D:\Game Projects\Unity Editor\2022.3.1f1-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\MovingObject.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Loader.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\Scripts\Loader.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Player.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\GameManager.cs" />
